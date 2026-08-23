@@ -5,7 +5,7 @@
 * 🤝 I’m looking for opportunities to grow in **software architecture, backend development, AI integration, cloud technologies, and scalable applications**.
 * 🌱 I’m currently learning **Data Structures & Algorithms, Full-Stack Development, Artificial Intelligence, Backend Development, and System Design**.
 * 💬 Ask me about **HTML, CSS, JavaScript, Python, C/C++, Git, GitHub, Figma, UI/UX, AI, and Full-Stack Development**.
-*🎨 Fun fact: I enjoy turning ideas into clean, modern, and user-friendly designs that people love to interact with.
+* 🎨 Fun fact: I enjoy turning ideas into clean, modern, and user-friendly designs that people love to interact with.
 <!--
 **itzhimadri/itzhimadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
