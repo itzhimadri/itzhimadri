@@ -181,13 +181,13 @@ A voice-enabled AI experience designed around travel and destination information
 
 <img
   src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=itzhimadri&show_icons=true"
-  alt="Himadri's GitHub Stats"
+  alt="GitHub Stats"
   width="48%"
 />
 
 <img
   src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=itzhimadri"
-  alt="Himadri's Top Languages"
+  alt="Top Languages"
   width="48%"
 />
 
@@ -195,7 +195,7 @@ A voice-enabled AI experience designed around travel and destination information
 
 <img
   src="https://streak-stats.demolab.com/?user=itzhimadri&theme=tokyonight&hide_border=true"
-  alt="Himadri's GitHub Streak"
+  alt="GitHub Streak"
   width="70%"
 />
 
