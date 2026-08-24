@@ -202,30 +202,22 @@ A voice-enabled AI assistant concept designed around travel and destination info
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itzhimadri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=itzhimadri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
 
-<img src="https://streak-stats.demolab.com/?user=itzhimadri&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzhimadri&theme=tokyonight&hide_border=true" width="48%" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhimadri&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhimadri&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="45%" />
 
 </div>
-
 ---
 
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/itzhimadri/itzhimadri/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
+<img src="https://raw.githubusercontent.com/itzhimadri/itzhimadri/output/github-contribution-grid-snake-dark.svg">
 ---
 
 # 🎯 Current Learning Journey
