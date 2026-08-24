@@ -91,18 +91,18 @@
 ![Uber](https://img.shields.io/badge/Uber-000000?style=for-the-badge&logo=uber&logoColor=white)
 ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 
+## 📊 GitHub Stats
 
-<!--
-**itzhimadri/itzhimadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=itzhimadri&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://streak-stats.demolab.com/?user=itzhimadri&theme=dark&hide_border=true" width="49%">
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhimadri&layout=compact&theme=dark&hide_border=true&langs_count=8" width="49%">
+
+</p>
