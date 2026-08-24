@@ -242,18 +242,17 @@ A voice-enabled AI assistant concept designed around travel and destination info
 </div>
 ---
 
-# 🎯 Current Learning Journey
+## 🎯 Current Learning Journey
 
-```text
-████████████████████████████████████████  Full-Stack Development
-██████████████████████████████████░░░░░░  Artificial Intelligence
-██████████████████████████████░░░░░░░░░░  Data Structures & Algorithms
-████████████████████████████░░░░░░░░░░░░  Backend Development
-██████████████████████████░░░░░░░░░░░░░░  System Design
-████████████████████████░░░░░░░░░░░░░░░░  DevOps & Cloud
-██████████████████████░░░░░░░░░░░░░░░░░░  UI/UX Design
-```
-
+| 🚀 Skill | 📊 Progress |
+|---|---|
+| 💻 Full-Stack Development | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 70% |
+| 🤖 Artificial Intelligence | 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ 60% |
+| 🧠 Data Structures & Algorithms | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
+| ⚙️ Backend Development | 🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜ 70% |
+| 🏗️ System Design | 🟥🟥🟥🟥🟥⬜⬜⬜⬜⬜ 50% |
+| ☁️ DevOps & Cloud | 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ 40% |
+| 🎨 UI/UX Design | 🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ 70% |
 ---
 
 # 💡 My Development Philosophy
