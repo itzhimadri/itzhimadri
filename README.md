@@ -180,19 +180,22 @@ A voice-enabled AI experience designed around travel and destination information
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=itzhimadri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=itzhimadri&show_icons=true"
+  alt="Himadri's GitHub Stats"
   width="48%"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhimadri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=itzhimadri"
+  alt="Himadri's Top Languages"
   width="48%"
 />
 
 <br><br>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=itzhimadri&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=itzhimadri&theme=tokyonight&hide_border=true"
+  alt="Himadri's GitHub Streak"
   width="70%"
 />
 
