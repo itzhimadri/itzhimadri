@@ -161,18 +161,16 @@ A voice-enabled AI experience designed around travel and destination information
 
 ## 🎯 Current Learning Journey
 
-I'm continuously improving my engineering skills through projects, experimentation and problem solving.
-
-| Area | Focus |
+| 🚀 Skill | 📊 Progress |
 |---|---|
-| 💻 Full-Stack Development | ███████████████░░░░░ 75% |
-| 🤖 Artificial Intelligence | █████████████░░░░░░░ 65% |
-| 🧠 DSA | ████████████░░░░░░░░ 60% |
-| ⚙️ Backend Development | █████████████░░░░░░░ 65% |
-| 🏗️ System Design | █████████░░░░░░░░░░░ 45% |
-| ☁️ DevOps & Cloud | ████████░░░░░░░░░░░░ 40% |
-| 🎨 UI/UX Design | ███████████████░░░░░ 75% |
-
+| 💻 Full-Stack Development | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 70% |
+| 🤖 Artificial Intelligence | 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ 60% |
+| 🧠 Data Structures & Algorithms | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
+| ⚙️ Backend Development | 🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜ 70% |
+| 🏗️ System Design | 🟥🟥🟥🟥🟥⬜⬜⬜⬜⬜ 50% |
+| ☁️ DevOps & Cloud | 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ 40% |
+| 🎨 UI/UX Design | 🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ 70% |
+---
 > 📌 Progress represents my current learning focus, not a certification level.
 
 ---
@@ -219,18 +217,40 @@ I'm continuously improving my engineering skills through projects, experimentati
 
 ---
 
-## 🧩 What I'm Interested In
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🤖 Artificial Intelligence                               │
-│   💻 Full-Stack Engineering                                │
-│   🎨 UI/UX & Product Design                                │
-│   🔎 Retrieval-Augmented Generation                         │
-│   ⚙️ Backend & API Development                              │
-│   🧠 Data Structures & Algorithms                           │
-│   ☁️ Cloud & DevOps                                         │
-│   🚀 Product Development                                    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+
+# 💡 My Development Philosophy
+
+> **"Don't just write code. Design it. Build it. Test it. Improve it. Make it useful."**
+
+I believe the strongest developers combine **engineering, creativity and curiosity**.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### 💻 Build something meaningful.
+
+[![GitHub](https://img.shields.io/badge/GitHub-itzhimadri-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/itzhimadri)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Himadri_Mandal-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/himadri-mandal7/)
+
+[![Email](https://img.shields.io/badge/Email-him.tech.work%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:him.tech.work@gmail.com)
+
+<br>
+
+😎 😎 😎 😎 😎
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
+
+---
+
+<div align="center">
+
+**© Himadri Mandal • Building • Learning • Designing • Innovating**
+
+</div>
