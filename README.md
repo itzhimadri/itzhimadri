@@ -6,6 +6,13 @@
 * 🌱 I’m currently learning **Data Structures & Algorithms, Full-Stack Development, Artificial Intelligence, Backend Development, and System Design**.
 * 💬 Ask me about **HTML, CSS, JavaScript, Python, C/C++, Git, GitHub, Figma, UI/UX, AI, and Full-Stack Development**.
 * 🎨 Fun fact: I enjoy turning ideas into clean, modern, and user-friendly designs that people love to interact with.
+
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/himadri-mandal-933551421)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:him.tech.work@gmail.com)
 <!--
 **itzhimadri/itzhimadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
