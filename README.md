@@ -215,6 +215,7 @@ A voice-enabled AI assistant concept designed around travel and destination info
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhimadri&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="45%" />
 
 </div>
+
 ---
 
 <img src="https://raw.githubusercontent.com/itzhimadri/itzhimadri/output/github-contribution-grid-snake-dark.svg">
